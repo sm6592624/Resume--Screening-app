@@ -1,0 +1,33 @@
+# Resume Screening Application Dependencies
+# ========================================
+
+# Core data science libraries
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Machine learning framework
+scikit-learn>=1.0.0
+
+# Web application framework
+streamlit>=1.28.0
+
+# Document processing libraries
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Text processing
+# (regex is included in Python standard library)
+
+# Development and notebook support (optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional utilities
+# These packages are typically included with Python installations
+# but listed here for completeness and virtual environment setups
+pickle-mixin>=1.0.2  # Usually built-in
+typing-extensions>=4.0.0  # For better type hints support
